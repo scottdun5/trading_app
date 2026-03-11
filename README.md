@@ -295,6 +295,7 @@ Results saved to `data/memo_analysis.json` and preloaded on future visits. Re-ru
 
 <p>
   <img src="assets/memo_analysis.png" width="700" alt="Memo Analysis" />
+  <img src="assets/memo_analysis2.png" width="700" alt="Memo Analysis" />
   <br/>
   <em>Memo Analysis: monthly behavioral coaching summary</em>
 </p>
@@ -381,6 +382,8 @@ Output: side-by-side histograms, descriptive stats table, ECDF comparison, Delta
 
 <p>
   <img src="assets/distribution_comparison.png" width="700" alt="Distribution Comparison Tool" />
+  <img src="assets/distribution_comparison2.png" width="700" alt="Distribution Comparison Tool" />  
+  <img src="assets/distribution_comparison3.png" width="700" alt="Distribution Comparison Tool" />
   <br/>
   <em>Distribution Comparison: CSV field comparison with ECDF and stats table</em>
 </p>
@@ -403,6 +406,7 @@ Output: side-by-side histograms, descriptive stats table, ECDF comparison, Delta
 
 <p>
   <img src="assets/setup_gallery.png" width="700" alt="Setup Gallery" />
+  <img src="assets/setup_gallery2.png" width="700" alt="Setup Gallery" />
   <br/>
   <em>Setup Gallery: chart image browser and tagger</em>
 </p>
