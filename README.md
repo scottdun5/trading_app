@@ -2,7 +2,7 @@
 
 A personal trading analytics platform built around how I actually work, not how trading education says you should. Covers the full loop: daily process tracking, behavioral self-analysis, historical edge analysis, and performance measurement.
 
-> **Personal project, work in progress.** This is a tool I built for myself and continue to iterate on. Large parts of it work well and are in daily use; other parts are unfinished, undertested, or held together with duct tape. I may clean them up, or I may not. The bar is whether it works well enough for my purposes, not whether it is production-ready. Sharing it here as a reflection of how I think and build, rough edges included.
+> **Personal project, work in progress.** This is a tool I built for myself and continue to iterate on. Large parts of it work well and are in daily use; other parts are unfinished, undertested, or held together with duct tape. Documentation many be incomplete or inaccurate in some parts. I may clean these things up, or I may not. The bar is whether it works well enough for my purposes, not whether it is production-ready. Sharing it here as a reflection of how I think and build, rough edges included.
 
 ---
 
